@@ -7,7 +7,7 @@ Tabela de conteúdos
 </h4>
 
 <p align="center">
- <a href="http://www.allskyexossjam1.br-web.com/">Site_ ALLSKYEXOSS</a> •
+ <a href="http://www.allskyexossjam1.br-web.com/">Site AllSky Exoss</a> 
 
    
 <!--te-->
